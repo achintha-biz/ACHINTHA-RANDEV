@@ -9,7 +9,7 @@ I'm an undergraduate student at Coventry University, currently working as an int
 * 🌍  I'm based in SriLankan
 * ✉️  You can contact me at [achintharande@gmail.com](mailto:achintharande@gmail.com)
 * 🚀  I'm currently working on [Convergence Lanka](http://convergence.lk)
-* 🧠  I'm learning Basics of Wb Development
+* 🧠  I'm learning the Basics of Web Development
 * 🤝  I'm open to collaborating on Web and software development projects
 * ⚡  Always eager to learn and grow. Let's connect and collaborate!
 
